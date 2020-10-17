@@ -1,10 +1,8 @@
-# Develop a NativeScript plugin [![Build Status](https://travis-ci.org/NativeScript/nativescript-plugin-seed.svg?branch=master)](https://travis-ci.org/NativeScript/nativescript-plugin-seed)
-
-> This repo is heavily based on [@NathanWalker](https://github.com/NathanWalker)'s [Plugin Seed](https://github.com/NathanWalker/nativescript-plugin-seed). Thanks, Nathan!
+# nativescript-plugin-gark-version-number [![Build Status](https://travis-ci.org/NativeScript/nativescript-plugin-seed.svg?branch=master)](https://travis-ci.org/NativeScript/nativescript-plugin-seed)
 
 <!-- TOC depthFrom:2 -->
 
-- [TL;DR](#tldr)
+- [Description](#Description)
 - [Long Description](#long-description)
     - [What is NativeScript plugin seed?](#what-is-nativescript-plugin-seed)
     - [Plugin folder structure](#plugin-folder-structure)
@@ -23,7 +21,8 @@
 
 <!-- /TOC -->
 
-## TL;DR
+## Description
+
 The NativeScript plugin seed is built to be used as a starting point by NativeScript plugin developers. To bootstrap your plugin development execute the following:
 
 1. `git clone https://github.com/NativeScript/nativescript-plugin-seed nativescript-yourplugin` where `nativescript-yourplugin` is the name of your plugin.
@@ -45,7 +44,7 @@ What does the seed give you out of the box?
 * a proper `.gitignore` to keep GitHub tidy 
 * a proper `.npmignore` to ensure everyone is happy when you publish your plugin to NPM.
 
-![Plugin seed demo](https://github.com/NativeScript/nativescript-plugin-seed/blob/master/screenshots/demo.png?raw=true)
+    ![Plugin seed demo](https://github.com/NativeScript/nativescript-plugin-seed/blob/master/screenshots/demo.png?raw=true)
 
 ### Plugin folder structure 
 
